@@ -1,0 +1,2 @@
+# SmartRockets
+Genetic algorithm study.
